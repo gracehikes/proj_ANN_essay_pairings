@@ -1,5 +1,3 @@
-# proj_ANN_essay_pairings
-Generate embeddings with Google's TensorFlow Hub model, build an ANN ranking of essay similarity or "proximity" with embeddings
 
 # Abstract
 For popular dating apps and websites like Tinder, Bumble, Match and OKCupid, their customer base ranges between two to eight million people. These companies employ a variety of filtering, ranking and search algorithms to make match recommendations to their users quickly.
