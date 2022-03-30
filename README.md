@@ -19,11 +19,11 @@ My analysis scope:
 Let's review a sample essay and its 3 closest ANN-ranked matches out of the 60,000+ essays:
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=90%>
+  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=85%>
 </p>
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=99%>
+  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=90%>
 </p>
 
 The high-dimensional embeddings appeared to have done a good job of capturing the essense in the sample essay--moving to different states for school/work, a hobby of international travel, possessing advanced educational degrees--and finding similar matches.
