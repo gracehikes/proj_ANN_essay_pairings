@@ -15,7 +15,7 @@ My analysis scope:
 * put dating app users’ essays through the TF-Hub embedding and ANN ranking, check and validate top 3 essay "matches"
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/essay%20lengths%2030%2070%20140%20example.png" width=70%>
+  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=70%>
 </p>
 
 
@@ -23,7 +23,7 @@ My analysis scope:
 Let's review a sample essay and its 3 closest ANN-ranked matches out of the 60,000+ essays. The high-dimensional embeddings appeared to have done a good job of capturing the essense in the sample essay--moving to different states for school/work, a hobby of international travel, possessing advanced educational degrees--and finding similar matches.
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/images/tSNE%20visual%20cluster%20by%20gender.png" width=95%>
+  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=95%>
 </p>
 
 
