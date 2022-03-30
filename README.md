@@ -14,19 +14,15 @@ My analysis scope:
 * use the ANN ranking to find most similar essay matches
 * put dating app users’ essays through the TF-Hub embedding and ANN ranking, check and validate top 3 essay "matches"
 
-<p align="center">
-  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=70%>
-</p>
-
 
 # Results
 Let's review a sample essay and its 3 closest ANN-ranked matches out of the 60,000+ essays. The high-dimensional embeddings appeared to have done a good job of capturing the essense in the sample essay--moving to different states for school/work, a hobby of international travel, possessing advanced educational degrees--and finding similar matches.
 
 <p align="center">
-  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=95%>
+  <img src="https://github.com/gracehikes/proj_ANN_essay_pairings/blob/main/images/sample%20essay%20and%20top%203%20ANN%20matches.png" width=105%>
 </p>
 
 
 # More Details
-Full report found [here](/graceyang_final_thesis_filed.pdf).
+Full report found [here](https://github.com/gracehikes/proj_dating_essays_tSNE_clusters/blob/main/graceyang_final_thesis_filed.pdf).
 
