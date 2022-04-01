@@ -8,7 +8,7 @@ Matching of similarity is not done with brute computation force across all possi
 # Methodology
 A common algorithm used to make embedding comparisons more efficient is Approximate Nearest Neighbors (ANN). Given a dating app user’s self-summary and the position of its embedding in the high-dimensional space, ANN can rank other essays whose embeddings are mapped close to this subject essay.
 
-My analysis scope:
+My analysis scope, done in Python:
 * apply Google's TensorFlow Hub (TF-Hub) model to dating essays to get high-dimensional embeddings
 * build an ANN ranking of essay similarity or "proximity" with embeddings generated from TF-Hub model
 * use the ANN ranking to find most similar essay matches
